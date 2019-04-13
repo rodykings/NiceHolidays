@@ -1,0 +1,12 @@
+﻿  Packs.cpp
+c:\users\rodrigo reis\documents\feup\c++ projects\niceholidays\packs.cpp(6): warning C4018: '<': signed/unsigned mismatch
+c:\users\rodrigo reis\documents\feup\c++ projects\niceholidays\packs.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\rodrigo reis\documents\feup\c++ projects\niceholidays\packs.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\rodrigo reis\documents\feup\c++ projects\niceholidays\packs.cpp(16): warning C4101: 'packId': unreferenced local variable
+c:\users\rodrigo reis\documents\feup\c++ projects\niceholidays\packs.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\rodrigo reis\documents\feup\c++ projects\niceholidays\packs.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\rodrigo reis\documents\feup\c++ projects\niceholidays\packs.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\rodrigo reis\documents\feup\c++ projects\niceholidays\packs.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\rodrigo reis\documents\feup\c++ projects\niceholidays\packs.cpp(113): warning C4018: '<': signed/unsigned mismatch
+c:\users\rodrigo reis\documents\feup\c++ projects\niceholidays\packs.cpp(97): warning C4715: 'packTableLenght': not all control paths return a value
+  NiceHolidays.vcxproj -> C:\Users\Rodrigo Reis\Documents\FEUP\C++ Projects\NiceHolidays\Debug\NiceHolidays.exe

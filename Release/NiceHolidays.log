@@ -1,0 +1,9 @@
+﻿  SubOperations.cpp
+c:\users\rodrigo reis\documents\feup\c++ projects\niceholidays\suboperations.cpp(40): warning C4018: '<=': signed/unsigned mismatch
+  Generating code
+c:\users\rodrigo reis\documents\feup\c++ projects\niceholidays\clients.cpp(332): warning C4715: 'stringToBoughtPacks': not all control paths return a value
+c:\users\rodrigo reis\documents\feup\c++ projects\niceholidays\packs.cpp(97): warning C4715: 'packTableLenght': not all control paths return a value
+c:\users\rodrigo reis\documents\feup\c++ projects\niceholidays\clients.cpp(71): warning C4715: 'clientsTableLenght': not all control paths return a value
+  All 703 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  NiceHolidays.vcxproj -> C:\Users\Rodrigo Reis\Documents\FEUP\C++ Projects\NiceHolidays\Release\NiceHolidays.exe
