@@ -58,8 +58,8 @@ C++ PROG Project - 2S MIEIC
 <ul>
   <li><b>Gerir Clientes</b> - Criar | Alterar | Remover</li>
   <li><b>Gerir Clientes</b> - Criar | Alterar | Remover</li>
-  <li><b>Gerir Pacotes</b> - criar, alterar e remover</li>
-  <li>Ver Clintes e Pacotes</li>
+  <li><b>Gerir Pacotes</b> - Criar | Alterar | Remover</li>
+  <li>Ver Clientes e Pacotes</li>
 </ul>
 
 
